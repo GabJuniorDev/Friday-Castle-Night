@@ -3,7 +3,10 @@ Repositorio do projeto do isaac cagao sei la nakdnco ncao
 -------------------
 
 # Este aqui é um simples projeto de Friday Night Funkin onde sei lá, você faz batalha de rima contra um castelo, que divertido, uhu
-# Este repositório eu faço de tudo pra não morrer e to tentando chamar a atenção dos idiotas pra entenderem que ele é importante pra organização do jogo
-# Principalmente release
+Este repositório eu faço de tudo pra não morrer e to tentando chamar a atenção dos idiotas pra entenderem que ele é importante pra organização do jogo
+Principalmente release
 
 -Gabriel
+
+
+# ̷F̷̷r̷̷i̷̷d̷a̷̷y̷ ̷N̷̷i̷̷g̷̷h̷̷t̷ ̷F̷̷u̷̷n̷̷k̷̷i̷̷n̷
