@@ -10,3 +10,5 @@ ________ .-------.   .-./`)  ______        ____       ____     __             __
                                                                                                                                                                                                                   
 
 # BEM VINDO AO FRIDAY CASTLE NIGHT! Este jogo baseado no famoso jogo "Friday Night Funkin" foi feito por puramente diversão e criatividade de animadores e inspirado no (mais ou menos) famoso animador "Isaac the Castle Man" baseado em seu desejo de bem...se tornar um mod.
+
+# [para que o mod rode de forma correta, é recomendado usar o codename engine para exportar o mod na area de mods.]
